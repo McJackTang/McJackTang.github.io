@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
--  I am a student researcher at Tsinghua University🎓. I am now a member of [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/), advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=zh-CN), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ&hl=zh-CN), and [Prof. Yingqing Xu](https://scholar.google.com/citations?hl=zh-CN&user=zSiDAt4AAAAJ). I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at Tsinghua-Toyota AI Center and an intern at [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group. I enjoy working with academia and industry.
+-  I am a student researcher at Tsinghua University🎓. I am now a member of [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/), advised by [Prof. Yuanchun Shi](https://scholar.google.com/citations?user=TZm3-pwAAAAJ&hl=zh-CN), [A/Prof. Yuntao Wang](https://scholar.google.com/citations?user=kHpwoAUAAAAJ&hl=zh-CN), and [Prof. Yingqing Xu](https://scholar.google.com/citations?hl=zh-CN&user=zSiDAt4AAAAJ). I have done research in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Global Innovation Exchange](https://gix.uw.edu/), [Future Lab](https://thfl.tsinghua.edu.cn/en/), and [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/). I was a researcher at Tsinghua-Toyota AI Center and an intern at ANT Group. I enjoy working with academia and industry.
 
 - 🔭 My research interests include `Remote Physiological Sensing`, `Pervasive Computing`, `Human-Computer Interaction(HCI)`, `Large Language Models`, and `Computer Vision`. I’m currently working on Biosensing, HCI, and LLM.  
  
@@ -25,6 +25,7 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+**2025.2:** Awarded the **Excellent Beijing Natural Science Foundation Program** by Beijing Natural Science Foundation as Principle Investigator.
 
 **2025.1:** Our paper [Spiking-PhysFormer: Camera-BasedRemote Photoplethysmography withParallel Spike-driven Transformer](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)(Q1, IF:6.0).
 
@@ -303,10 +304,11 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 🎖 Honors and Awards
+- *2025* **Excellent Beijing Natural Science Foundation Program**, Beijing Natural Science Foundation(Principle Investigatorm, Top 5).
 - *2024* **Excellent Graduation Thesis**, Beijing Municipal Education Commission(Top 0.8%).
 - *2024* **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
 - *2024* **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
-- *2024* **Excellent Graduation Thesis** at Tsinghua University（Top 1 in Department）.
+- *2024* **Excellent Graduation Thesis** at Tsinghua University(Top 1 in Department).
 - *2024* **Outstanding Graduate** at Tsinghua University（Top 10%）.
 - *2024* **Best Presentation Award** at Tsinghua University Initiative Scientific Research Program Forum(Top 5).
 - *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in Department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
@@ -345,8 +347,8 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - *2022.05*, Patent Writing, Xinya College, Tsinghua University
 
 # 💻 Internships
-- *2024.01 - Now*, [Ant Group](https://www.antgroup.com/) Pedcha Lab, China.
-- *2023.06 - 2023.11*, [Zhipu AI](https://www.zhipuai.cn/en/) ChatGLM Group, China.
+- *2024.01 - 2025.02*, [Ant Group](https://www.antgroup.com/) Pedcha Lab, China.
+
 
 <!-- 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
