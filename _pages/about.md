@@ -23,6 +23,7 @@ redirect_from:
 - 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.  
 
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcjacktang.github.io&count_bg=%23233FDBD2&title_bg=%23233D62C7&icon=googlepodcasts.svg&icon_color=%2323E9F742&title=Page+Viewers&edge_flat=false"/></a>
 
 # 🔥 News
 **2025.2:** Awarded the **Excellent Beijing Natural Science Foundation Program** by Beijing Natural Science Foundation as Principle Investigator.
