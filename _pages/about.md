@@ -25,6 +25,13 @@ redirect_from:
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcjacktang.github.io&count_bg=%23233FDBD2&title_bg=%23233D62C7&icon=googlepodcasts.svg&icon_color=%2323E9F742&title=Page+Viewers&edge_flat=false"/></a>
 
+<details>
+  <summary>中文简介</summary>
+  唐健凯，清华大学学生辅导员，北京市学生研究员。唐健凯围绕普适健康计算，研究智能手机和可穿戴设备的端智能健康计算，解决跨环境、跨人群的泛化能力差和运动噪声大等难题。通过建模人体可见光下心血管颜色时序变化，提出基于RGB摄像头的视频生理感知计算方法，优化端侧算法高效推理架构，创新低功耗、高性能、强泛化的端智能感知计算技术，服务健康医疗等高影响力应用领域。唐健凯作为负责人曾主持国家级大创项目一项，北京市自然科学基金项目一项并获评优秀（Top 5），参与国家级及省部级项目近10项。曾在SCI期刊或CCF-A会议等有影响力期刊/会议发表论文10+篇，包括NeurIPS、ACL、IMWUT、CHI、Neural Networks等，其中第一作者（含共一）5篇。唐健凯提出的基于视频的远程心率监测方法性能接近医疗级设备，荣获首届全国泛在智能感知技术创新应用大赛一等奖和第九届全国大学生生物医学工程创新设计竞赛一等奖。
+<!--   教育背景：清华大学新雅书院本科（专业：智能工程与创意设计），工学学士，艺术学学士，清华大学计算机系研究生。 -->
+</details>
+
+
 # 🔥 News
 **2025.2:** Awarded the **Excellent Beijing Natural Science Foundation Program** by Beijing Natural Science Foundation as Principle Investigator.
 
@@ -305,7 +312,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 🎖 Honors and Awards
-- *2025* **Excellent Beijing Natural Science Foundation Program**, Beijing Natural Science Foundation(Principle Investigatorm, Top 5).
+- *2025* **Excellent Beijing Natural Science Foundation Program**, Beijing Natural Science Foundation(Principle Investigator, Top 5).
 - *2024* **Excellent Graduation Thesis**, Beijing Municipal Education Commission(Top 0.8%).
 - *2024* **First Prize** in Ubiquitous Intelligent Sensing Technology Innovation Application Competition(Top 5).
 - *2024* **First Prize** in the National Biomedical Engineering Innovation Competition(Top 5%). 
