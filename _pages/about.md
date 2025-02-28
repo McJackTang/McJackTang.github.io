@@ -160,7 +160,7 @@ Ke Liu*, **Jiankai Tang\*** (\*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaoj
 
 ## [Camera-Based HRV Prediction for Remote Learning Environments ![](https://img.shields.io/github/stars/KegangWangCCNU/RLAP-dataset?style=social)](https://github.com/KegangWangCCNU/RLAP-dataset)
 
-Kegang Wang, Yantao Weia, **Jiankai Tang**, Yuntao Wang, Mingwen Tong, Jie Gao, Yujian Ma, Zhongjin Zhao
+Kegang Wang, Yantao Wei, **Jiankai Tang**, Yuntao Wang, Mingwen Tong, Jie Gao, Yujian Ma, Zhongjin Zhao
 
 [UIC'24](https://www.ieee-smart-world.org/2024/uic/). 
 
