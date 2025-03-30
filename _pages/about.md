@@ -367,7 +367,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 👨🏻‍🎓 Service and Leadership
-- Conference Reviewers: MobileHCI'24
+- Conference Reviewers: MobileHCI'24, MICCAI'25
 - Journal Reviewers: IMWUT
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
 - 2023-Now: Chairman of Hunan Culture Association,  Tsinghua University
