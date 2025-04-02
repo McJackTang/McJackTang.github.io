@@ -23,7 +23,11 @@ redirect_from:
 - 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.  
 
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcjacktang.github.io&count_bg=%23233FDBD2&title_bg=%23233D62C7&icon=googlepodcasts.svg&icon_color=%2323E9F742&title=Page+Viewers&edge_flat=false"/></a>
+
+
+<!--  GitHub_List = ['https://github.com/thuhci/ANT_PPG','https://github.com/Arktis2022/Spiking-PhysFormer','https://github.com/THUDM/LongBench','https://github.com/thuhci/SUMS','https://github.com/McJackTang/LLM-HealthAssistant','https://github.com/Health-HCI-Group/Largest_rPPG_Dataset_Evaluation','https://github.com/ubicomplab/rPPG-Toolbox','https://github.com/KegangWangCCNU/RLAP-dataset','https://github.com/McJackTang/MMPD_rPPG_dataset','https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary']  -->
+
+<!--  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmcjacktang.github.io&count_bg=%23233FDBD2&title_bg=%23233D62C7&icon=googlepodcasts.svg&icon_color=%2323E9F742&title=Page+Viewers&edge_flat=false"/></a>  -->
 
 <details>
   <summary>中文简介</summary>
