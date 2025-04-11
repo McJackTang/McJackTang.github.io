@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/jack-tang-941879223/" # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  LinkedIn         : "jack-tang-941879223" # e.g., "linkedin username"
+  dblp             : "https://dblp.org/pid/339/7296.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5388-4552" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
