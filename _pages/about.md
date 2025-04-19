@@ -374,7 +374,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 - Conference Reviewers: MobileHCI'24, MICCAI'25
 - Journal Reviewers: IMWUT
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
-- 2023-Now: Chairman of Hunan Culture Association,  Tsinghua University
+- 2023-2025: Chairman of Hunan Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
 - 2022-2023: Vice president of the Science and Innovation Association, Xinya College.
   
