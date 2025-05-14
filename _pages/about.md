@@ -37,6 +37,8 @@ redirect_from:
 
 
 # 🔥 News
+**2025.5:** Our [FacePhys](facephys.com) Project got reported by official media, including: [Tsinghua University (清华大学)](https://mp.weixin.qq.com/s/LPts1lfIW121wQABaEmxnA), [MGTV（芒果TV/湖南新闻联播)](https://www.mgtv.com/b/714997/22870059.html?t=videoshare&externalsource=v_play&tc=jXKKosRPSAN7&f=wxf&dc=501ef234-cc31-4165-9991-6d0457ce8ce8), [VOC（湖南日报）](https://m.voc.com.cn/xhn/news/202505/29399852.html)
+
 **2025.2:** Awarded the **Excellent Beijing Natural Science Foundation Program** by Beijing Natural Science Foundation as Principle Investigator.
 
 **2025.1:** Our paper [Spiking-PhysFormer: Camera-BasedRemote Photoplethysmography withParallel Spike-driven Transformer](https://arxiv.org/abs/2402.04798) has been accepted by [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)(Q1, IF:6.0).
