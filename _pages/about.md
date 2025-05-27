@@ -31,7 +31,7 @@ redirect_from:
 
 <details>
   <summary>中文简介</summary>
-  唐健凯，清华大学学生辅导员，北京市学生研究员。唐健凯围绕普适健康计算，研究智能手机和可穿戴设备的端智能健康计算，解决跨环境、跨人群的泛化能力差和运动噪声大等难题。通过建模人体可见光下心血管颜色时序变化，提出基于RGB摄像头的视频生理感知计算方法，优化端侧算法高效推理架构，创新低功耗、高性能、强泛化的端智能感知计算技术，服务健康医疗等高影响力应用领域。唐健凯作为负责人曾主持国家级大创项目一项，北京市自然科学基金项目一项并获评优秀（Top 5），参与国家级及省部级项目近10项。曾在SCI期刊或CCF-A会议等有影响力期刊/会议发表论文10+篇，包括NeurIPS、ACL、IMWUT、CHI、Neural Networks等，其中第一作者（含共一）5篇,谷歌学术引用超600次。唐健凯提出的基于视频的远程心率监测方法性能接近医疗级设备，荣获首届全国泛在智能感知技术创新应用大赛一等奖和第九届全国大学生生物医学工程创新设计竞赛一等奖。
+  唐健凯，清华大学学生辅导员，北京市学生研究员。唐健凯围绕普适健康计算，研究智能手机和可穿戴设备的端智能健康计算，解决跨环境、跨人群的泛化能力差和运动噪声大等难题。通过建模人体可见光下心血管颜色时序变化，提出基于RGB摄像头的视频生理感知计算方法，优化端侧算法高效推理架构，创新低功耗、高性能、强泛化的端智能感知计算技术，服务健康医疗等高影响力应用领域。唐健凯作为负责人曾主持国家级大创项目一项，北京市自然科学基金项目一项并获评优秀（Top 5），参与国家级及省部级项目近10项。曾在SCI期刊或CCF-A会议等有影响力期刊/会议发表论文10+篇，包括NeurIPS、ACL、IMWUT、CHI、Neural Networks等，其中第一作者（含共一）5篇,谷歌学术引用超700次。唐健凯提出的基于视频的远程心率监测方法性能接近医疗级设备，荣获首届全国泛在智能感知技术创新应用大赛一等奖和第九届全国大学生生物医学工程创新设计竞赛一等奖。
 <!--   教育背景：清华大学新雅书院本科（专业：智能工程与创意设计），工学学士，艺术学学士，清华大学计算机系研究生。 -->
 </details>
 
@@ -373,8 +373,8 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 👨🏻‍🎓 Service and Leadership
-- Conference Reviewers: MobileHCI'24, MICCAI'25
-- Journal Reviewers: IMWUT
+- Conference Reviewers: MobileHCI'24, NIPS'24, MICCAI'25, ACM MM'25
+- Journal Reviewers: IMWUT, TIFS
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
 - 2023-2025: Chairman of Hunan Culture Association,  Tsinghua University
 - 2021-2023: Leader of Creative Design and Intelligent Engineering. CDIE9 was honored with the award of “Excellent Academic Class”.
