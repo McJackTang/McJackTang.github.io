@@ -31,12 +31,14 @@ redirect_from:
 
 <details>
   <summary>中文简介</summary>
-  唐健凯，清华大学学生辅导员，北京市学生研究员。唐健凯围绕普适健康计算，研究智能手机和可穿戴设备的端智能健康计算，解决跨环境、跨人群的泛化能力差和运动噪声大等难题。通过建模人体可见光下心血管颜色时序变化，提出基于RGB摄像头的视频生理感知计算方法，优化端侧算法高效推理架构，创新低功耗、高性能、强泛化的端智能感知计算技术，服务健康医疗等高影响力应用领域。唐健凯作为负责人曾主持国家级大创项目一项，北京市自然科学基金项目一项并获评优秀（Top 5），参与国家级及省部级项目近10项。曾在SCI期刊或CCF-A会议等有影响力期刊/会议发表论文10+篇，包括NeurIPS、ACL、IMWUT、CHI、Neural Networks等，其中第一作者（含共一）5篇,谷歌学术引用超700次。唐健凯提出的基于视频的远程心率监测方法性能接近医疗级设备，荣获首届全国泛在智能感知技术创新应用大赛一等奖和第九届全国大学生生物医学工程创新设计竞赛一等奖。
+  唐健凯，清华大学学生辅导员，北京市学生研究员。唐健凯围绕普适健康计算，研究智能手机和可穿戴设备的端智能健康计算，解决跨环境、跨人群的泛化能力差和运动噪声大等难题。通过建模人体可见光下心血管颜色时序变化，提出基于RGB摄像头的视频生理感知计算方法，优化端侧算法高效推理架构，创新低功耗、高性能、强泛化的端智能感知计算技术，服务健康医疗等高影响力应用领域。唐健凯作为负责人曾主持国家级大创项目一项，北京市自然科学基金项目一项并获评优秀（Top 5），参与国家级及省部级项目近10项。曾在SCI期刊或CCF-A会议等有影响力期刊/会议发表论文10+篇，包括NeurIPS、ACL、IMWUT、CHI、Neural Networks等，其中第一作者（含共一）5篇,谷歌学术引用~1000次。唐健凯提出的基于视频的远程心率监测方法性能接近医疗级设备，荣获首届全国泛在智能感知技术创新应用大赛一等奖和第九届全国大学生生物医学工程创新设计竞赛一等奖。
 <!--   教育背景：清华大学新雅书院本科（专业：智能工程与创意设计），工学学士，艺术学学士，清华大学计算机系研究生。 -->
 </details>
 
 
 # 🔥 News
+**2025.8:** 🎉🎉 Three papers ([Ring-Survey](https://arxiv.org/pdf/2502.02459), [τ-Ring](https://arxiv.org/abs/2508.00778), [Cardioresperotory Coupling](https://arxiv.org/abs/2508.00773)) have been accepted by [IMWUT](https://dl.acm.org/journal/imwut)/[UbiComp'25](https://www.ubicomp.org/ubicomp-iswc-2025/).
+
 **2025.5:** Our [FacePhys](https://facephys.com) Project got reported by official media, including: [Tsinghua University (清华大学)](https://mp.weixin.qq.com/s/LPts1lfIW121wQABaEmxnA), [MGTV（芒果TV/湖南新闻联播)](https://www.mgtv.com/b/714997/22870059.html?t=videoshare&externalsource=v_play&tc=jXKKosRPSAN7&f=wxf&dc=501ef234-cc31-4165-9991-6d0457ce8ce8), [VOC（湖南日报）](https://m.voc.com.cn/xhn/news/202505/29399852.html)
 
 **2025.2:** Awarded the **Excellent Beijing Natural Science Foundation Program** by Beijing Natural Science Foundation as Principle Investigator.
@@ -373,7 +375,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 👨🏻‍🎓 Service and Leadership
-- Conference Reviewers: MobileHCI'24, NIPS'24, MICCAI'25, ACM MM'25
+- Conference Reviewers: MobileHCI'24, NIPS'24, MICCAI'25, ACM MM'25, IEEE BSN'25
 - Journal Reviewers: IMWUT, TIFS
 - 2024-Now: Science and Innovation Mentor, Xinya College, Tsinghua University
 - 2023-2025: Chairman of Hunan Culture Association,  Tsinghua University
