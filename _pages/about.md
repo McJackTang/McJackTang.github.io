@@ -36,8 +36,9 @@ redirect_from:
 </details>
 
 
+
 # 🔥 News
-**2025.8:** 🎉🎉 Three papers ([Ring-Survey](https://arxiv.org/pdf/2502.02459), [τ-Ring](https://arxiv.org/abs/2508.00778), [Cardioresperotory Coupling](https://arxiv.org/abs/2508.00773)) have been accepted by [IMWUT](https://dl.acm.org/journal/imwut)/[UbiComp'25](https://www.ubicomp.org/ubicomp-iswc-2025/).
+**2025.8:** 🎉🎉 Three papers ([Ring-Survey](https://arxiv.org/pdf/2502.02459), [τ-Ring](https://arxiv.org/abs/2508.00778), [Cardiorespiratory Coupling](https://arxiv.org/abs/2508.00773)) have been accepted by [IMWUT](https://dl.acm.org/journal/imwut)/[UbiComp'25](https://www.ubicomp.org/ubicomp-iswc-2025/).
 
 **2025.5:** Our [FacePhys](https://facephys.com) Project got reported by official media, including: [Tsinghua University (清华大学)](https://mp.weixin.qq.com/s/LPts1lfIW121wQABaEmxnA), [MGTV（芒果TV/湖南新闻联播)](https://www.mgtv.com/b/714997/22870059.html?t=videoshare&externalsource=v_play&tc=jXKKosRPSAN7&f=wxf&dc=501ef234-cc31-4165-9991-6d0457ce8ce8), [VOC（湖南日报）](https://m.voc.com.cn/xhn/news/202505/29399852.html)
 
@@ -72,32 +73,11 @@ redirect_from:
 # 📝 Publications 
 #### JOURNAL PUBLICATIONS
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
   
-## [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)](https://github.com/thuhci/EarSAVAS)
-
-Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai Tang**, Xin Yi, Shwetak Patel, and Yuanchun Shi
-
-[IMWUT](https://dl.acm.org/journal/imwut)
-
-<div class="extra-links">
-    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
-        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
-    </a>
-  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
-        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
-    </a>
-</div>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='../images/NN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- --------------------------------------------------------------------------------------------------------------- -->
-
 
 ## [Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer ![](https://img.shields.io/github/stars/Arktis2022/Spiking-PhysFormer?style=social)](https://github.com/Arktis2022/Spiking-PhysFormer)
 
@@ -137,7 +117,119 @@ Hong Xiao, **Jiankai Tang**, Christine Qiu, Xinyi Fu
 </div>
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/EarSAVAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+## [The EarSAVAS Dataset: Enabling Subject-Aware Vocal Activity Sensing on Earables ![](https://img.shields.io/github/stars/thuhci/EarSAVAS?style=social)](https://github.com/thuhci/EarSAVAS)
+
+Xiyuxing Zhang, Yuntao Wang, Yuxuan Han, Chen Liang, Ishan Chatterjee, **Jiankai Tang**, Xin Yi, Shwetak Patel, and Yuanchun Shi
+
+[IMWUT](https://dl.acm.org/journal/imwut)
+
+<div class="extra-links">
+    <a class="_blank" href="https://dl.acm.org/doi/10.1145/3659616" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+  <a class="_blank" href="https://github.com/thuhci/EarSAVAS">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT</div><img src='../images/IMWUT-RingSurvey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Computing with Smart Rings: A Systematic Literature Review]
+
+Zeyu Wang, Ruotong Yu, Xiangyang Wang, Jiexin Ding, **Jiankai Tang**, Jun Fang, Zhe He, Zhuojun Li, Tobias Röddiger, Weiye Xu, Xiyuxing Zhang, Nan Gao, Chun Yu, Yuanchun Shi, Yuntao Wang
+
+[IMWUT](https://dl.acm.org/journal/imwut)
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/pdf/2502.02459" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+</div>
+
+</div>
+</div>
+
+
+
+
+
 #### CONFERENCE PUBLICATIONS
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2025</div><img src='../images/Ubicomp-OpenRing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [τ-Ring: A Smart Ring Platform for Multimodal Physiological and Behavioral Sensing ![](https://img.shields.io/github/stars/thuhci/OpenRing?style=social)](https://github.com/thuhci/OpenRing)
+
+**Jiankai Tang***, Zhe He*, Mingyu Zhang, Wei Geng, Chengchi Zhou, Weinan Shi, Yuanchun Shi, Yuntao Wang
+
+[UbiComp' 2025 Workshop](https://www.ubicomp.org/ubicomp-iswc-2025). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2508.00778" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/thuhci/OpenRing">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UbiComp 2025</div><img src='../images/UBICOMP-CRC-rPPG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## [Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery ![](https://img.shields.io/github/stars/McJackTang/CRC?style=social)](https://github.com/McJackTang/CRC)
+
+**Jiankai Tang**, Meng Kang, Yiru Zhang, Kegang Wang, Daniel Mcduff, Xin Liu, Yuanchun Shi, Yuntao Wang
+
+[UbiComp' 2025 Workshop](https://www.ubicomp.org/ubicomp-iswc-2025). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://arxiv.org/abs/2508.00773" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/McJackTang/CRC">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='../images/MICCAI-mtl-nfc.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+  
+## [NFCMTL: Auto NailFold Capillaroscopy through a Multi-Task Learning Model ![](https://img.shields.io/github/stars/thuhci/NFCMTL?style=social)](https://github.com/thuhci/NFCMTL)
+
+Yingke Ding, **Jiankai Tang**, Wanying Mo, Tianruo Rose Xu, Yuanchun Shi, Yuntao Wang
+
+[MICCAI'25 Workshop](https://conferences.miccai.org/2025/). 
+
+<div class="extra-links">
+    <a class="_blank" href="https://openreview.net/pdf?id=u0m4T1aUo1" >
+        <i class="fas fa-newspaper" aria-hidden="true"></i> Paper
+    </a>
+      <a class="_blank" href="https://github.com/thuhci/NFCMTL">
+        <i class="ai ai-open-access ai-1x" aria-hidden="true"></i> Code
+    </a>
+</div>
+
+</div>
+</div>
+<!-- --------------------------------------------------------------------------------------------------------------- -->
 
 <!-- --------------------------------------------------------------------------------------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIC 2024</div><img src='../images/UIC24_SUMS.png' alt="sym" width="100%"></div></div>
