@@ -20,7 +20,7 @@ redirect_from:
 
 - 🔭 My research interests include `Remote Physiological Sensing`, `Pervasive Computing`, `Human-Computer Interaction(HCI)`.
  
-- 📫 Reach me through `tjk24@mails.tsinghua.edu.cn` if interested.  
+- 📫 Reach me through `tjk24 at mails.tsinghua.edu.cn` if interested.  
 
 <a href='https://scholar.google.com/citations?user=_jENFHIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
