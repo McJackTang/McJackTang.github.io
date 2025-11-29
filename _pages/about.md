@@ -38,7 +38,7 @@ redirect_from:
 
 
 # 🔥 News
-**2025.10:** 🎉🎉 [FacePhys](https://facephys.com) won the **First Prize**  in Tsinghua MedTech Competition.
+**2025.11:** 🎉🎉 [FacePhys](https://facephys.com) won the **First Prize**  in Tsinghua MedTech Competition.
 
 **2025.10:** 🎉🎉 Our paper regarding the smart ring platform won the **Best Paper Award**  [τ-Ring](https://arxiv.org/abs/2508.00778) in OpenWearable Workshop of [UbiComp'25](https://www.ubicomp.org/ubicomp-iswc-2025/).
 
