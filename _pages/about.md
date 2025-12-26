@@ -38,9 +38,9 @@ redirect_from:
 
 
 # 🔥 News
-**2025.11:** 🎉🎉 Our paper **One-stop Strabismus Digital Diagnosis via AI-integrated Skin-like and Wearable "Eyelectronics'** has been accepted by **Science Advances**
+**2025.12:** 🎉🎉 Our paper **One-stop Strabismus Digital Diagnosis via AI-integrated Skin-like and Wearable "Eyelectronics'** has been accepted by **Science Advances**
 
-**2025.11:** 🎉🎉 [FacePhys](https://facephys.com) got reported by official media of [Tsinghua University (清华大学)](https://mp.weixin.qq.com/s/hml_B_KuFxiaWiE6vHSoGA)
+**2025.12:** 🎉🎉 [FacePhys](https://facephys.com) got reported by official media of [Tsinghua University (清华大学)](https://mp.weixin.qq.com/s/hml_B_KuFxiaWiE6vHSoGA)
 
 **2025.11:** 🎉🎉 [FacePhys](https://facephys.com) won the **First Prize**  in Tsinghua MedTech Competition.
 
@@ -420,6 +420,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 🎖 Honors and Awards
+- *2025* **First Prize**, Tsinghua MedTech Competition.
 - *2025* **Best Paper Award**, UbiComp'25 OpenWearable.
 - *2025* **Best Paper Award**, MICCAI'25 EMERGE.
 - *2025* **Excellent Beijing Natural Science Foundation Program**, Beijing Natural Science Foundation(Principle Investigator, Top 5).
@@ -458,6 +459,7 @@ Xin Liu, Girish Narayanswamy, Akshay Paruchuri, Xiaoyu Zhang, **Jiankai Tang**, 
 
 
 # 💬 Invited Talks
+- *2025.12*, Cardiovascular Digital-Intelligent Health Conference, Beijing Heart Society & Chinese Association of Geriatric Research
 - *2024.06*, Commencement Ceremony, Xinya College, Tsinghua University
 - *2024.04*, LLM Applications in Social Work, Tsinghua University
 - *2023.07*, MMPD Presentation, IEEE Engineering in Medicine and Biology Society
